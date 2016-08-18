@@ -1,0 +1,9 @@
+# Remove the InsecurePlatformWarning message on Ubuntu 14.04
+# http://stackoverflow.com/questions/29134512/insecureplatformwarning-a-true-sslcontext-object-is-not-available-this-prevent
+pyopenssl
+ndg-httpsclient
+pyasn1
+
+# Hashicorp Vault Python API
+# https://github.com/ianunruh/hvac
+hvac
